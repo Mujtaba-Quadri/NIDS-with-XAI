@@ -36,9 +36,9 @@ An alert is raised only if the predicted class is not Normal and the confidence 
 | Class | Tools used to generate the traffic |
 |---|---|
 | Normal | Normal user profiles (HTTP, HTTPS, FTP, SSH, e-mail) |
-| PortScan | 
+| PortScan | Nmap |
 | BruteForce | FTP-Patator, SSH-Patator |
-| DoS | 
+| DoS | Hulk, GoldenEye, Slowloris, Slowhttptest |
 | DDoS | LOIC |
 
 ## Tech stack
